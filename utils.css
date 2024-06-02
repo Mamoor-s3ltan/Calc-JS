@@ -1,0 +1,24 @@
+.text-center{
+    text-align: center;
+}
+
+
+
+.flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-orange{
+    background-color: orange;
+    color: white;
+}
+.bg-black{
+    background-color: rgb(35, 35, 35);
+    color: white;
+}
+.bg-grey{
+    background-color: grey;
+}
